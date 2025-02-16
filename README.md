@@ -1,16 +1,24 @@
-# money_tracker
+# Money Tracker 🤑  
 
-A new Flutter project.
+A personal project to explore Flutter and learn its fundamentals. This simple app allows users to track their income and expenses without using a database. Instead, it relies on an in-memory list of objects, meaning that all data is lost when the app is closed.  
 
-## Getting Started
+## Features 🚀  
 
-This project is a starting point for a Flutter application.
+- Add and delete income and expense records  
+- Simple UI for easy tracking  
+- No database – data exists only during the app session  
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots 📸  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Home Screen  
+![Home Screen](screenshots/transaction_list.png)  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Add Transaction Screen  
+![Add Transaction Screen](screenshots/add_transaction.png)
+
+### Delete Transaction Dialog
+![Delete Transaction Dialog](screenshots/confirm_dialog_delete.png)
+
+## License 📜
+
+This project is for learning purposes and has no official license.
