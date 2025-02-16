@@ -10,14 +10,9 @@ A personal project to explore Flutter and learn its fundamentals. This simple ap
 
 ## Screenshots 📸  
 
-### Home Screen  
-![Home Screen](screenshots/transaction_list.png)  
-
-### Add Transaction Screen  
-![Add Transaction Screen](screenshots/add_transaction.png)
-
-### Delete Transaction Dialog
-![Delete Transaction Dialog](screenshots/confirm_dialog_delete.png)
+| Home Screen  | Add Transaction Screen | Delete Transaction Dialog |
+| ------------ | ---------------------- | ------------------------- |
+| ![Home Screen](screenshots/transaction_list.png) | ![Add Transaction Screen](screenshots/add_transaction.png) | ![Delete Transaction Dialog](screenshots/confirm_dialog_delete.png) | 
 
 ## License 📜
 
